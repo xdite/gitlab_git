@@ -13,5 +13,5 @@ Gem::Specification.new do |s|
 
   s.add_dependency("github-linguist", "~> 2.3.4")
   s.add_dependency("gitlab-grit", "~> 2.6.1")
-  s.add_dependency("activesupport", "~> 3.2.13")
+  s.add_dependency("activesupport", "~> 4.0.0")
 end
